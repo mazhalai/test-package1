@@ -1,0 +1,8 @@
+{
+    "name": "mazhalai/test-package1",
+    "require": {
+        "mazhalai/test-package2": "1.0.*"
+    },
+    "version": "100.0.2"
+}
+
